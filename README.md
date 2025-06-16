@@ -131,4 +131,10 @@ The schemes data should be in JSON format with the following structure for each 
   "target_audience": ["string"],
   "eligibility": ["string"],
   "benefits": ["string"],
-  "application
+  "application": "string",
+  "benefits":"string",
+  "Official Website":"string",
+  "Application Form":"string",
+  "Order\/Notice":"string",
+}
+```
