@@ -1,6 +1,6 @@
 # SevaSaathi
 
-A beautiful, interactive Streamlit application that helps users discover and learn about government schemes tailored to their needs. Features an AI-powered chat interface and comprehensive scheme browsing capabilities.
+A web-app ai chatbot that helps users discover and learn about government schemes tailored to their needs. Features an AI-powered chat interface and comprehensive scheme browsing capabilities.
 
 ## Features
 
