@@ -53,8 +53,8 @@ government_schemes_assistant/
 
 3. **Set up environment variables**
    ```bash
-   cp .env.example .env
-   # Edit .env file and add your Gemini API key
+   # Edit .env file
+   add your Gemini API key, api timeout and max tries
    ```
 
 4. **Prepare your data**
